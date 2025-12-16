@@ -4,4 +4,4 @@
 - Runtime: GitHub Pages
 - Purpose: Internal tool
 - Deployment method: Auto-deploy from `main`
-- Domain: <username>.https://70martin.github.io/vodomer/
+- Domain: <username>.https://70martin.github.io/Kalkulace-spotreby/
